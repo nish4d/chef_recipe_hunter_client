@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hBtn{
+    @apply bg-primary py-4 px-8 text-xl font-bold rounded-md hover:bg-[#876a50];
+}
+
